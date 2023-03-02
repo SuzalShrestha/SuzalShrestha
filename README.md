@@ -2,9 +2,13 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-### Hi there 👋
-### I am 18 years old FRONTEND DEVELOPMENT LEARNER.
+### HI !!
+### I AM 18 YEARS OLD FULLSTACK DEVELOPEMENT LEARNER FROM NEPAL.
 
+- 🔭 I’m currently working on Object Oriented Programming.
+- 🌱 I’m currently learning MERN Stack.
+- 👯 I’m looking to collaborate on Intermediate Projects.
+- 📫 How to reach me: sujalshresthawork@gmail.com || sujal.scxi121@amv.edu.np
 
 <!--
 **SuzalShrestha/SuzalShrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
