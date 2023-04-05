@@ -3,10 +3,10 @@
  
 </div>
 
-### HI !!
-### I AM 18 YEARS OLD FULLSTACK DEVELOPEMENT LEARNER FROM NEPAL.
+### HI Coder!!
+### I AM 19 YEARS OLD FULLSTACK DEVELOPEMENT LEARNER FROM NEPAL.
 # 💫 About Me:
-I’m currently working on Computer Science (sorting,dynamic programming).<br>I’m currently learning MERN Stack.<br>I’m looking to collaborate on Intermediate Projects.<br>How to reach me: sujalshresthawork@gmail.com || sujal.scxi121@amv.edu.np
+I’m currently working on Computer Science (LeetCode whitboarding Problems).<br>I’m currently learning MERN Stack.<br>I’m looking to collaborate on Intermediate Projects.<br>How to reach me: sujalshresthawork@gmail.com || sujal.scxi121@amv.edu.np
 
 
 ## 🌐 Socials:
