@@ -7,7 +7,7 @@
 ### HI Coder!!
 ### I AM 19 YEARS OLD FULLSTACK DEVELOPEMENT LEARNER FROM NEPAL.
 # 💫 About Me:
-I’m currently working on Computer Science (Sequelize ORM).<br>I’m currently learning MERN Stack.<br>I’m looking to collaborate on Intermediate Projects.<br>How to reach me: sujalshresthawork@gmail.com || sujal.scxi121@amv.edu.np
+I’m currently working on REACT V18.<br>I’m currently learning MERN Stack.<br>I’m looking to collaborate on Intermediate Projects.<br>How to reach me: sujalshresthawork@gmail.com || sujal.scxi121@amv.edu.np
 
 
 ## 🌐 Socials:
