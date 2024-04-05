@@ -7,10 +7,10 @@ Web Developer and Designer
 I am 19 years old and I've been self learning to code for 1 year . I am currently studying Engineering.
 
 * 🌍  I'm based in South East Asia
-* 🖥️  See my portfolio at [My Portfolio](http://suzalshrestha.github.io)
-* ✉️  You can contact me at [sujalshrestha4343@gmail.com](mailto:sujalshrestha4343@gmail.com)
-* 🚀  I'm currently working on [React App](http://github.com/suzalshrestha/React-Projects)
-* 🧠  I'm learning REACT and REDUX
+* 🖥️  See my portfolio at [My Portfolio](http://sujalshrestha.vercel.app)
+* ✉️  You can contact me at [sujalshrestha4343@gmail.com](mailto:sujalshresthawork@gmail.com)
+* 🚀  I'm currently working on [Data Structure and Algorithms ](https://github.com/SuzalShrestha/Data-Structures-and-Algorithm)
+* 🧠  I'm learning DSA and Algorithms
 * 🤝  I'm open to collaborating on Interesting Projects Ideas
 * ⚡  I'm Chess Player and love to Travel
 
