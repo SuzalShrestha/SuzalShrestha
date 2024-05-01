@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Designer
 --------------------------
 
-I am 19 years old and I've been self learning to code for 1 year . I am currently studying Engineering.
+I am 20 years old Frontend Developer at Black Tech Pvt.Ltd . I am currently in 3rd semester studying Engineering.
 
 * 🌍  I'm based in South East Asia
 * 🖥️  See my portfolio at [My Portfolio](http://sujalshrestha.vercel.app)
-* ✉️  You can contact me at [sujalshrestha4343@gmail.com](mailto:sujalshresthawork@gmail.com)
-* 🚀  I'm currently working on [Data Structure and Algorithms ](https://github.com/SuzalShrestha/Data-Structures-and-Algorithm)
-* 🧠  I'm learning DSA and Algorithms
+* ✉️  You can contact me at [sujalshrestha4343@gmail.com](mailto:sujalshresthawork@gmail.com) or [social Links](dub.sh/sujal)
+* 🚀  I'm currently working on Full Stack Ecommerce App.
+* 🧠  I'm learning Full stack framework NEXT.js.
 * 🤝  I'm open to collaborating on Interesting Projects Ideas
 * ⚡  I'm Chess Player and love to Travel
 
