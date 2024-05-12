@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sujal Shrestha
 ======================================================================================================================================
 
-Web Developer and Designer
+Frontend Developer and Engineering Student
 --------------------------
 
 I am 20 years old Frontend Developer at Black Tech Pvt.Ltd . I am currently in 3rd semester studying Engineering.
