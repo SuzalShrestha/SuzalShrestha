@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer | Engineering Student
 ----------------------------------------------
 
-I've been learn
+I am in 3rd semester and Frontend Developer working at Black Tech Pvt. Ltd
 
 * 🌍  I'm based in South East Asia
 * 🖥️  See my portfolio at [My Portfolio](http://sujalshrestha.tech)
