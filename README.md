@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer | Engineering Student
 ----------------------------------------------
 
-I am in 3rd semester and Frontend Developer working at Black Tech Pvt. Ltd
+I am in 3rd semester and Software Engineer at Yes Helping Hand IT Solutions Pvt. Ltd.
 
 * 🌍  I'm based in South East Asia
 * 🖥️  See my portfolio at [My Portfolio](http://sujalshrestha.tech)
 * ✉️  You can contact me at [sujalshresthawork@gmail.com](mailto:sujalshresthawork@gmail.com)
 * 🚀  I'm currently working on [Roomdex and BlindTrust](http://100x-dev-hackathon.vercel.app/)
 * 🧠  I'm learning Backend Development
-* 🤝  I'm open to collaborating on Intresting Project Ideas
+* 🤝  I'm open to collaborating on Interesting Project Ideas
 * ⚡  I'm chess player and love to travel
 
 <a href="https://www.github.com/suzalshrestha" target="_blank" rel="noreferrer"><img
