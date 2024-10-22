@@ -9,7 +9,7 @@ I am in 3rd semester and Software Engineer at Yes Helping Hand IT Solutions Pvt.
 * 🌍  I'm based in South East Asia
 * 🖥️  See my portfolio at [My Portfolio](http://sujalshrestha.tech)
 * ✉️  You can contact me at [sujalshresthawork@gmail.com](mailto:sujalshresthawork@gmail.com)
-* 🚀  I'm currently working on [Roomdex and BlindTrust](http://100x-dev-hackathon.vercel.app/)
+* 🚀  I'm currently working on Backend Development
 * 🧠  I'm learning Backend Development
 * 🤝  I'm open to collaborating on Interesting Project Ideas
 * ⚡  I'm chess player and love to travel
