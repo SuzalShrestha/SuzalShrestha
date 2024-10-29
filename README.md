@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer | Engineering Student
 ----------------------------------------------
 
-I am in 3rd semester and Software Engineer at Yes Helping Hand IT Solutions Pvt. Ltd.
+I am in 4th semester Engineering Student and Full Stack Developer
 
 * 🌍  I'm based in South East Asia
 * 🖥️  See my portfolio at [My Portfolio](http://sujalshrestha.tech)
