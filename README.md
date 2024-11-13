@@ -9,8 +9,8 @@ I am in 4th semester Engineering Student and Full Stack Developer
 * 🌍  I'm based in South East Asia
 * 🖥️  See my portfolio at [My Portfolio](http://sujalshrestha.tech)
 * ✉️  You can contact me at [sujalshresthawork@gmail.com](mailto:sujalshresthawork@gmail.com)
-* 🚀  I'm currently working on Youtube Backend, 100xdev projects and freelancing
-* 🧠  I'm learning Backend Development
+* 🚀  I'm currently working on Youtube Backend, 100xdev projects, web3, rust and freelancing.
+* 🧠  I'm learning Backend Development, rust language, web3
 * 🤝  I'm open to collaborating on Interesting Project Ideas
 * ⚡  I'm chess player and love to travel
 
