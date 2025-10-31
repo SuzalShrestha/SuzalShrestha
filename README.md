@@ -7,10 +7,10 @@ Full Stack Web Developer | Engineering Student
 I am 4th semester Engineering Student and Full Stack Developer
 
 * 🌍  I'm based in South East Asia
-* 🖥️  See my portfolio at [My Portfolio](http://sujalshrestha.tech)
+* 🖥️  See my portfolio at [My Portfolio](https://shrestha-sujal.com.np)
 * ✉️  You can contact me at [sujalshresthawork@gmail.com](mailto:sujalshresthawork@gmail.com)
-* 🚀  I'm currently working on 100xdev projects, web3, rust and freelancing.
-* 🧠  I'm learning Backend Development, rust language, web3
+* 🚀  I'm currently working on freelancing.
+* 🧠  I'm learning Backend Development
 * 🤝  I'm open to collaborating on Interesting Project Ideas
 * ⚡  I'm chess player and love to travel
 
