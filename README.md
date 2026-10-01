@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm 3rd year engineering undergrad
+I'm final year engineering undergrad
 
 
 ## 🌐 Socials:
